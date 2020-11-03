@@ -127,23 +127,30 @@ h3 {
 }
 
 .section-5 {
-  margin-top: 100px;
   margin-bottom: 100px;
-  padding-top: 100px;
   padding-bottom: 100px;
 }
 
 .fifth-section-text h2  {
   text-align: center;
+  font-family:'Playfair Display', 'serif';
+  color: #000;
+  font-size: 3em;
+  padding-bottom: 40px;
+}
+
+.sixth-section-text h2 {
+  color: #fff;
+  font-size: 15px;
   font-family:'Libre Franklin', 'serif';
 }
 
-
-.fifth-section-text h3 {
+.sixth-section-text h3 {
   text-align: center;
   font-family:'Playfair Display', 'serif';
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  
 }
 
 .center {
@@ -156,31 +163,56 @@ h3 {
     height: 100vh;
 }
 
-.section-5 {
+.section-6 {
 }
 
-.fifth-section-text {
+.sixth-section-text {
   padding-top: 100px;
   color: #fff;
 }
 
-.fifth-section-text h2 {
+.sixth-section-text h2 {
 margin-left: 600px;
 text-align: left;
 }
 
-.fifth-section-text h3 {
+.sixth-section-text h3 {
 margin-left: 600px;
 text-align: left;
 }
 
-.fifth-section-text p {
+.sixth-section-text p {
 margin-left: 600px;
 width: 40%;
 text-align: left;
 }
 
-.left {
+.MoveThatButton {
   margin-left: 600px;
   margin-top: 50px;
 }
+
+.section-7 {
+  text-align: center;
+}
+
+.seventh-section-text h2 {
+  font-size: 15px;
+  margin-bottom: -20px;
+  margin-top: 100px;
+}
+
+.seventh-section-text h3 {
+  margin-bottom: 40px;
+  font-family:'Playfair Display', sans-serif;
+  font-size: 4em;
+}
+
+.seventh-section-text p {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 200px;
+  margin-right: 200px;
+  font-family:'Libre Franklin', 'serif';
+  text-align: center;
+} 
