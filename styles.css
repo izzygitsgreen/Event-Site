@@ -147,13 +147,12 @@ h3 {
 
 .section-4 {
     background-color: #f5f5f1;
-    padding: 150px;
+    padding-bottom: 300px;
+    padding-top: 150px;
 }
 
 .fourth-section-text {
     margin-left: 200px;
-    margin-right: 200px;
-    width: 70%;
 }
 
 .fourth-section-text h2 {
@@ -162,15 +161,19 @@ h3 {
 
 .fourth-section-text h3 {
     font-family: 'Playfair Display', 'serif';
+    margin-bottom: 20px;
 }
 
 .fourth-section-text p {
     font-family: 'Libre Franklin', sans-serif;
     font-size: 15px;
+    margin-bottom: 30px;
 }
 
-.oranges {
+.section4Pic {
     float: right;
+    margin-left: 50px;
+    margin-right: 100px;
 }
 
 .section-5 {
