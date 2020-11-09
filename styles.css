@@ -28,7 +28,7 @@ h3 {
 }
 
 .cover {
-    background-image: url(https://images.unsplash.com/photo-1538188636308-61c9b215a12e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=19c163c719c1ccaf607596a4e2c6c93d&auto=format&fit=crop&w=500&q=60);
+    background-image: url(https://images.unsplash.com/photo-1507494924047-60b8ee826ca9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1566&q=80);
     background-size: cover;
     height: 100vh;
 }
@@ -36,7 +36,7 @@ h3 {
 .cover h1 {
     color: #fff;
     text-align: center;
-    padding-top: 40vh;
+    padding-top: 20vh;
     font-family: 'Playfair Display', serif;
     font-size: 4em;
     letter-spacing: 3px;
@@ -88,11 +88,11 @@ h3 {
     font-family: 'Playfair Display', 'serif';
     font-weight: 100;
     padding-top: 15px;
-    color: #000;
+    color: #41444b;
 }
 
 .first-section-text h2 {
-    color: #000;
+    color: #41444b;
 }
 
 .second-section-text h2 {
@@ -153,6 +153,7 @@ h3 {
 
 .fourth-section-text {
     margin-left: 200px;
+    color: #41444b;
 }
 
 .fourth-section-text h2 {
@@ -182,10 +183,22 @@ h3 {
     padding-bottom: 100px;
 }
 
+.carousel-caption {
+    margin-bottom: 100px;
+    font-family: 'Playfair Display', 'serif';
+}
+
+.carousel-caption p {
+    font-family: 'Libre Franklin', 'serif';
+    padding-top: 15px;
+    font-size: 12px;
+    width: 70%;
+}
+
 .fifth-section-text h2 {
     text-align: center;
     font-family: 'Playfair Display', 'serif';
-    color: #000;
+    color: #41444b;
     font-size: 3em;
     padding-bottom: 40px;
 }
@@ -253,6 +266,7 @@ h3 {
     font-size: 15px;
     margin-bottom: -20px;
     margin-top: 100px;
+    color: #41444b;
 }
 
 .seventh-section-text h3 {
@@ -276,6 +290,7 @@ h3 {
     padding-bottom: 100px;
     margin-top: 100px;
     text-align: left;
+    color: #41444b;
 }
 
 .eigth-section-text h2 {
@@ -293,19 +308,19 @@ h3 {
 }
 
 .left-button {
-  margin-left: 150px;
-  font-size: 12px;
-  padding-left: 40px;
-  padding-right: 40px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  font-family:'Libre Franklin', sans-serif;
+    margin-left: 150px;
+    font-size: 12px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Libre Franklin', sans-serif;
 }
 
 .column-purple {
-  float: left;
-  width: 50%;
-  padding-right: 50px;
+    float: left;
+    width: 50%;
+    padding-right: 50px;
 }
 
 .row-purple {
@@ -317,6 +332,7 @@ h3 {
 .section-9 {
     padding-top: 100px;
     padding-bottom: 100px;
+    color: #41444b;
 }
 
 .row-red {
@@ -358,12 +374,11 @@ input[type=text] {
     width: 70%;
 }
 
-
 .section-10 {
     margin-left: 50px;
     margin-right: 50px;
     margin-top: 100px;
-    color: #898b8a;
+    color: #41444b;
 }
 
 .column {
